@@ -4,6 +4,7 @@ import { browserHistory } from 'react-router';
 import HomePage from './pages/homePage.js';
 import NavBar from './headerComponent/navBar.js';
 import Footer from './footerComponent/footer.js';
+import DataPage from './pages/dataPage.js';
 
 class App extends Component {
   render() {

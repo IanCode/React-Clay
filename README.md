@@ -44,7 +44,51 @@ More granular instructions as a guide to building a website are included in my [
 7. Viewing on local host
 8. Deploying on Heroku
 
+## Ian's Design Intentions
 
+### Clay club website
+
+#### Base Goals
+
+1. Searchable database of clay piece images
+Attributes include: 
+- Artist name
+- clay body
+- glaze
+- year 
+- date added
+
+2. Browse images 
+- all
+- clay body
+- artist name
+- year
+- glaze
+
+3. Frontpage with a view that cycles through 3 images chosen 
+randomly from the database. 
+
+#### Expansion Goals
+
+4. General Clay Club Info: 
+- Meeting times
+Club leaders and contact information
+etc. 
+
+5. Users and Admin Users
+- Users can sign in and upload images, blog posts, and recipes
+- Admin users can additionally delete images, users, blog posts, and recipes
+
+6. Searchable/browsable recipes
+- person who uploaded
+- year
+- other keywords
+
+7. Searchable/browsable blog posts/tutorials
+- person who uploaded
+- year
+- other keywords
 
 ## Author
-Preda A
+Boilerplate Starter Code: Preda A
+Clay Club Site: Ian White
